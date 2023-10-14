@@ -1,2 +1,2 @@
 # Emojinator
-"Emojinator 🔒: Encrypting Message To Emojis - (😃)
+"Emojinator 🔒: Encrypting Message To Emojis.
