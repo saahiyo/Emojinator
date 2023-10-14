@@ -1,5 +1,5 @@
 # Emojinator
-Txtmoji Clone Web is a simple web application that allows you to encrypt and decrypt text messages using emojis. This repository contains the HTML, CSS, and JavaScript code for the web application.
+Emojinator Web is a simple web application that allows you to encrypt and decrypt text messages using emojis. This repository contains the HTML, CSS, and JavaScript code for the web application.
 
 ## Table of Contents
 - [Features](#features)
