@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+  <title>Txtmoji Clone web</title>
+</head>
+<body>
+<div class="main">
+  <div class="container">
+    <div class="contents">
+      <h1> text <span><img src="https://i.ibb.co/Jp3gLJ4/arrow.png" alt="Arrow Image"></span>Emoji</h1>
+      <div class="switch">
+        <h3 class="encBtn"><span><i class="ri-lock-2-line"></i></span>Encrypt</h3>
+        <h3 class="decBtn"><span><i class="ri-lock-unlock-line"></i></span>Decrypt</h3>
+      </div>
+      <div class="encryption" id="enc">
+        <h5>1. Type a message</h5>
+        <textarea placeholder="Type your message here..." class="txtmsg"></textarea>
+        <h5>2. Set a password</h5>
+        <input type="password" placeholder="E.g. 1234" class="password">
+        <h5>3. Encrypt message</h5>
+        <button class="encrypt-btn"><span><i class="ri-lock-2-line"></i></span> Encrypt message</button>
+      </div>
+
+      <div class="decryption" id="dec">
+        <h5>1. Paste encrypted emojis</h5>
+        <textarea placeholder="Paste encrypted emojis here" class="emojiMsg"></textarea>
+        <h5>2. Type the password</h5>
+        <input type="password" placeholder="E.g. 1234" class="password2">
+        <h5>3. Decrypt emojis</h5>
+        <button class="decrypt-btn"><span><i class="ri-lock-unlock-line"></i></span> Decrypt Emojis</button>
+      </div>
+    </div>
+    <div class="results"></div>
+  </div>
+</div>
+<script src="script.js"></script>
+</body>
