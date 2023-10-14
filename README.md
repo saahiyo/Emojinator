@@ -24,11 +24,12 @@ You can try out the web application by visiting the live demo [here](https://saa
 
 ```bash
 git clone https://github.com/yourusername/txtmoji-clone-web.git
-
+```
 1.Open the index.html file in your web browser to use the application.
 2.Follow the on-screen instructions to encrypt and decrypt messages with emojis.
-```
+
 ## Contributing
+
 
 If you'd like to contribute to this project, please follow these steps:
 
