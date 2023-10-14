@@ -16,5 +16,4 @@ Txtmoji Clone Web is a simple web application that allows you to encrypt and dec
 
 ## Demo
 
-You can try out the web application by visiting the live demo [https://saahiyo.github.io/Emojinator](#).
-
+You can try out the web application by visiting the live demo [here](https://saahiyo.github.io/Emojinator).
